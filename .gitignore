@@ -1,0 +1,8 @@
+# Wirtualne środowiska
+.venv/
+venv/
+ENV/
+
+# Pliki podręczne Pythona (bytecode)
+__pycache__/
+*.py[cod]
