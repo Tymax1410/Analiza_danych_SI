@@ -1,8 +1,10 @@
-# Wirtualne środowiska
-.venv/
-venv/
-ENV/
-
-# Pliki podręczne Pythona (bytecode)
+# Jupyter i Python
+.ipynb_checkpoints/
 __pycache__/
-*.py[cod]
+.venv/
+
+# Pliki tworzone w trakcie ćwiczeń
+dane/ema_utf8.csv
+
+# Rozwiązania nie trafiają do repo
+*-rozwiazania.ipynb
